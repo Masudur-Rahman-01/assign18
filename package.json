@@ -1,0 +1,14 @@
+{
+  "name": "assign-team",
+  "version": "1.0.0",
+  "description": "This is a mobile & react projects for developers",
+  "main": "index.js",
+  "scripts": {
+    "assign": "json-server --watch db.json --port 5959"
+  },
+  "author": "Masudur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
